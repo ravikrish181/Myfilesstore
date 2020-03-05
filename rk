@@ -2,7 +2,8 @@ mport java.util.Scanner;
 public class JavaExample {
    public static void main(String[] args)
    {
-	//Two variables to hold two input binary numbers	 
+	//ravi krishna:wq
+
 	long b1, b2;
 	int i = 0, carry = 0;
 
